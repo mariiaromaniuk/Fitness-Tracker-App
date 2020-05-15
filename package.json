@@ -18,7 +18,7 @@
     ]
   },
   "keywords": [],
-  "author": "",
+  "author": "Mariia Romaniuk",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.18.1",
@@ -45,5 +45,14 @@
     "webpack-cli": "^3.2.3",
     "acorn": "^6.4.1",
     "lodash": "^4.17.12"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariiaromaniuk/Fitness-Tracker-App.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mariiaromaniuk/Fitness-Tracker-App/issues"
+  },
+  "homepage": "https://github.com/mariiaromaniuk/Fitness-Tracker-App#readme"
 }
